@@ -11,25 +11,25 @@
 
 #first{
     background-color: #480202;
-    margin-bottom: 1%;
+    margin-bottom: 2px;
     height: 15%;
 }
 
 #second{
     background-color: #1d0247;
-    margin-bottom: 1%;
+    margin-bottom: 10px;
     height: 25%;
 }
 
 #third{
     background-color: #470243;
-    margin-bottom: 10%;
+    margin-bottom: 7px;
     height: 40%;
 }
 
 #fourth{
     background-color: #333437;
-    margin-bottom: 10%;
+    margin-bottom: 2px;
     height: 5%;
 }
 
