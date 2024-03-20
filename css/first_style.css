@@ -1,7 +1,7 @@
 #container{
     background-color: snow;
     width: 205vh ;
-    height: 95vh;
+    height: 98vh;
     padding: 0;
 }
 
@@ -36,5 +36,4 @@
 #fifth{
     background-color: #b5a72c;
     height: 10%;
-    margin-bottom: -5px;
 }

@@ -15,29 +15,32 @@
 .rectangle_gris{
     background-color: lightgray;
     height: 10vh;
-    margin: 5px;
+    margin: 3px;
     width: 50%;
 }
 
 .carre_rouge{
     background-color: #a40000;
-    height: 30vh;
+    height: 35vh;
     width: 33%;
-    margin: 20px;
+    margin: 3px;
+    margin-right: 5px;
+    margin-left: 5px;
 }
 
 .carre_bleu{
     background-color: rgb(3, 171, 190);
     width: 25%;
     height: 20vh;
-    margin: 5px;
+    margin: 3px;
 }
 
 .vert {
     background-color: #bfdd4D;
     width: 65%;
-    height: 20vh;
-    margin: 10px;
+    height: 22vh;
+    margin: 5px;
+    margin-left: 3px;
     margin-right: 20px;
     border-radius: 20px 20px;
   }
@@ -45,8 +48,8 @@
   .bleu {
     width: 35%;
     background-color: #4e9bdf;
-    height: 20vh;
+    height: 22vh;
     margin-left: 20px;
-    margin: 10px;
+    margin: 5px;
     border-radius: 20px 20px;
   }
