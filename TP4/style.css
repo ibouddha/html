@@ -1,0 +1,49 @@
+.nav{
+    background-color: orangered;
+    width: 100%;
+    height: 7vh;
+}
+
+.centre{
+    display: flex;
+    height: 68vh;
+    width: 100%;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    background-color: snow;
+}
+
+.sidebar{
+    width: 20%;
+    height: 68vh;
+    background-color: #0dbf1f;
+}
+
+.contentV{
+    width: 60%;
+    height: 68vh;
+    display: flex;
+}
+
+.vertical{
+    width: 25%;
+    height: 100%;
+    background-color: #0c5fbf;
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 0 1%;
+}
+
+.contact{
+    height: 12vh;
+    width: 100%;
+    margin-top: 1vh;
+    background-color: #a40000;
+}
+
+.footer{
+    height: 8vh;
+    width: 100%;
+    margin-top: 1vh;
+    background-color: #474D5B;
+}
