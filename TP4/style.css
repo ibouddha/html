@@ -29,7 +29,7 @@
     width: 25%;
     height: 100%;
     background-color: #0c5fbf;
-    justify-content: space-between;
+    justify-content: space-between; 
     flex-direction: column;
     margin: 0 1%;
 }
