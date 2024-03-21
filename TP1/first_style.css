@@ -1,7 +1,7 @@
 #container{
     background-color: snow;
-    width: 100vw ;
-    height: 100vh;
+    width: max-width ;
+    height: max-height ;
 }
 
 .rows{
