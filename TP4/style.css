@@ -13,6 +13,15 @@
     background-color: snow;
 }
 
+.corps{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
 .sidebar{
     width: 20%;
     height: 68vh;
@@ -20,18 +29,29 @@
 }
 
 .contentV{
-    width: 60%;
-    height: 68vh;
+    width: 100%;
+    height: 58vh;
     display: flex;
 }
 
+.content{
+    width: 100%;
+}
+
+.contentH{
+    height: 9vh;
+    background-color: blueviolet;
+    margin-top: 1vh;
+    margin-bottom: 0%;
+    margin: 1vw;
+}
+
 .vertical{
-    width: 25%;
-    height: 100%;
+    width:  100%;
     background-color: #0c5fbf;
     justify-content: space-between; 
     flex-direction: column;
-    margin: 0 1%;
+    margin: 0 1vw;
 }
 
 .contact{
