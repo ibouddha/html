@@ -1,0 +1,143 @@
+.container{
+    width: 97vw;
+}
+
+.header{
+    display: flex;
+    margin: 1vw;
+    margin-top: 1vh;
+    margin-bottom: 0vh;
+}
+
+.gris{
+    background-color: lightgray;
+    height: 5vh;
+    width: 20vw;
+}
+
+.menu{
+    width: 100vw;
+    height: 5vh;
+    margin-right: 1vw;
+    margin-left: 46vw;
+    background-color: #f05050;
+}
+
+.page1{
+    width: 100vw;
+    height: 65vh;
+}
+
+.centerpic{
+    width: 60vw;
+    height: 40vh;
+    margin-top: 5vh;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    margin-bottom: 5vh;
+    background-color: #36552b;
+}
+
+.centerpic2{
+    width: 60vw;
+    height: 10vh;
+    margin-top: 2vh;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    margin-bottom: 5vh;
+    background-color: #2266f8;
+}
+
+.third{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    height: 60vh;
+    margin-left: 30vw;
+    margin-right: 30vw;
+    background-color: #815D5D;
+}
+
+.fourth{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    height: 70vh;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    border: 1px solid #9e9e9e;
+}
+
+.fourthnav{
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    height: 10vh;
+    margin-left: 7vw;
+    margin-right: 7vw;
+    background-color: #3fae6c;
+}
+
+.fourthbody{
+    border: 1px solid #888;
+    padding: 1vh;
+    display: flex;
+    margin: 2vh;
+    height: 54vh;
+}
+
+
+.vertical{
+    width: 10vw;
+    /* height: 50vh; */
+    margin: 3%;
+    background-color: #1a2460;
+}
+
+.horizontal{
+    height: 30vh;
+    width: 60vw;
+    margin:  3% ;
+    margin-top: 10vh; 
+    margin-bottom: 10vh; 
+    background-color: #9e1f99;
+}
+
+.fifthnav{
+    margin-top: 1vh;
+    margin-bottom: 5vh;
+    height: 5vh;
+    margin-left: 7vw;
+    margin-right: 7vw;
+    background-color: #3fae6c;
+}
+
+.bandes{
+    display: flex;
+}
+
+.navbar{
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    height: 5vh;
+    margin-right: 1vw;
+    margin-left: 1vw;
+    background-color: #6c091d;
+}
+
+.bande6{
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    height: 5vh;
+    width: 40vw;
+    height: 60vh;
+    margin-right: 1vw;
+    margin-left: 1vw;
+    background-color: lightgray;
+}
+
+.lastbande{
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    height: 5vh;
+    margin-right: 15vw;
+    margin-left: 15vw;
+    background-color: black;
+}
