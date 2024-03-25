@@ -1,0 +1,300 @@
+.container{
+    width: 97vw;
+}
+
+.header{
+    display: flex;
+    margin: 1vw;
+    margin-top: 1vh;
+    margin-bottom: 0vh;
+}
+
+.logo{
+    width: 10vw;
+    height: 5vw;
+    margin: 2%;
+}
+
+.gris{
+    height: 10vh;
+    width: 20vw;
+    margin-left: 2vw;
+}
+
+.menu{
+    width: 100vw;
+    height: 5vh;
+    margin-right: 1vw;
+    margin-left: 55vw;
+    margin-top: 3vh;
+}
+
+.navbar{
+    margin: 1%;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+}
+
+li{
+    margin: 3%;
+    margin-left: 2vw;
+}
+
+li a{
+    text-decoration: none;
+    color: #4f6069;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 15%;
+    margin-bottom: 10vh;
+}
+
+li a:hover{
+    color: #fa4b0c;
+    font-style: bold;
+}
+
+.page1{
+    width: 100vw;
+    height: 65vh;
+    background-image: url("./Images/banner.png");
+}
+
+.centerpic{
+    width: 60vw;
+    height: 40vh;
+    margin-top: 5vh;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    /* background-color: #36552b; */
+    justify-content: center;
+    padding-top: 4vh;
+}
+
+.centerpic2{
+    height: 10vh;
+    margin-top: 5vh;
+    margin-left: 30vw;
+    margin-right: 30vw;
+    display: flex;
+}
+
+.btn{
+    width: 15vw;
+    height: 3vw;
+    margin-top: 1vh;
+    margin-left: 5vw;
+    margin-bottom: 1vh;
+    background-color: #ffffff00;
+    border-radius: 20px 20px;
+    border: 1px solid #fff;
+}
+
+.btn a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.active{
+    background-color: #ffffff00;
+    border: 1px solid #ccc;
+}
+
+.btn:hover{
+    background-color: #f84222;
+}
+
+h2,h3,h4{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 1.1em;
+    font-weight: bold;
+    color:aliceblue;
+}
+
+h2{
+    font-size: 3em;
+}
+
+h3{
+    font-size: 2em;
+}
+
+a.active{
+    color: #f84222;
+    border: none;
+}
+
+.third{
+    margin-bottom: 15vh;
+    height: 65vh;
+    margin-left: 30vw;
+    margin-right: 30vw;
+    background-color: #ffffff;
+}
+
+img.phone{
+    width: 40vw;
+    height: 80vh;
+}
+
+.fourth{
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    /* height: 70vh; */
+    margin-left: 15vw;
+    margin-right: 15vw;
+}
+
+.fourthnav{
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    height: 5vh;
+    margin-left: 7vw;
+    margin-right: 7vw;
+}
+
+.howitworks{
+    color: #444444;
+}
+
+.fourthbody{
+    padding: 1vh;
+    display: flex;
+    margin: 2vh;
+    height: 54vh;
+}
+
+
+.vertical{
+    /* height: 50vh; */
+    margin: 2%;
+}
+
+.horizontal{
+    width: 25vw;
+    margin-left:  5vw ;
+    margin-right: 15vw;
+    margin-top: 10vh; 
+    margin-bottom: 10vh;
+}
+
+.create{
+    width: 30vw;
+    margin-left:  5vw ;
+    margin-right: 5vw;
+    margin-top: 10vh; 
+    margin-bottom: 10vh;
+}
+
+
+h4.varieties{
+    text-align: left;
+    color: #fa4b0c;
+    margin-left: 1vw;
+}
+
+h3.text{
+    text-align: left;
+    color: #525151;
+}
+
+p{
+    text-align: left;
+    color: #525151;
+    font-size: 16pt;
+}
+
+.bandes{
+    display: flex;
+}
+
+.bar{
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    height: 5vh;
+    margin-right: 1vw;
+    margin-left: 1vw;
+}
+
+.bande6{
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    height: 5vh;
+    width: 40vw;
+    height: 60vh;
+    margin-right: 1vw;
+    margin-left: 1vw;
+}
+
+.lastbande{
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    height: 5vh;
+    margin-right: 15vw;
+    margin-left: 15vw;
+}
+
+.imglogin{
+    width: 17vw;
+    height: 24vw;
+}
+
+form{
+    display: inline-block;
+}
+
+.btn-submit{
+    width: 15vw;
+    height: 3vw;
+    margin-left: 1vw;
+    margin-top: 10vh;
+    background-color: #f62929f5;
+    color: seashell;
+    border-radius: 10px 10px;
+    border: 1px solid #fff;
+}
+
+.element{
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    height: 10vh;
+    margin-right: 1vw;
+    margin-left: 1vw;
+    width: 20vw;
+    border: 1px solid #fff;
+}
+
+input{
+    width: 20vw;
+    height: 3vw;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    border: 1px solid #4f6069dd;
+    padding-left: 1vw;
+    border-radius: 5px 5px;
+}
+
+textarea{
+    width: 20vw;
+    height: 15vh;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    border: 1px solid #4f6069dd;
+    padding-left: 1vw;
+    border-radius: 5px 5px;
+}
+
+.lastbande p{
+    text-align: center;
+    color: #222;
+    font-size: 10pt;
+}
